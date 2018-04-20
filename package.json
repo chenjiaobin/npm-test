@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "这是一包管理测试",
   "main": "index.js",
-  "bin": index.js,
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
